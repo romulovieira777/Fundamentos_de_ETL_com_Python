@@ -1,4 +1,4 @@
-# # Fundamentos de ETL com Python :snake:
+# Fundamentos de ETL com Python :snake:
 
 ## Curso Fundamentos de ETL com Python [Digital Innovation One](https://digitalinnovation.one/)
 
